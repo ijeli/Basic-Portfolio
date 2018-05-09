@@ -8,8 +8,9 @@ body {
 }
 /*header style */
 #headbox {
+ 
     background-color: #ffffff;
-    width: 970px;
+    width: 100%;
     height: 100px;
     align-content: auto;
     top: 0;
@@ -102,7 +103,7 @@ body {
     left: 46;
 }
 
-img {
+#propic {
     float: left;
     margin-right: 30px;
     margin-left: 30px;
@@ -169,3 +170,42 @@ img {
     height: 40px;
 }
 
+/*portfolio style*/
+#portfoliogeneralbox {
+    background-color: #ffffff;
+    width: 960px;
+    height: 650px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #dddddd;
+}
+#portfoliobox {
+    width: 905px;
+    height: 90px;
+    border-bottom-style: solid;
+    border-width: 2.3px;
+    border-color: #dddddd;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+    color: #4aaaa5;
+}
+
+#portfoliname {
+    position:relative;
+    bottom: -35px;
+    left: 46;
+}
+
+#stuffbox {
+    position: relative;
+    top: -4px;
+    left: 32px;
+    width: 910px;
+}
+
+#ihangbox {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
