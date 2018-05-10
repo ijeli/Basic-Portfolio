@@ -40,7 +40,7 @@ footer {
     background-color: #4aaaa5;
     width: 270px;
     height: 73px;
-    left: 500px;
+    left: 270px;
     font-size: 30px;
     margin-left: 0px;
     margin-right: 0px;
@@ -51,7 +51,7 @@ footer {
 
 #textname {
     position: relative;;
-    bottom:-15px;
+    bottom:-25px;
     left: 1px;
 }
 
@@ -59,7 +59,7 @@ footer {
     position: relative;
     width: 400px;
     height: 30px;
-    left: 1150px;
+    left: 920px;
     font-size: 20px;
     margin-left: 0px;
     margin-right: 0px;
